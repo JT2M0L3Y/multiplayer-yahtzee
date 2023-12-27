@@ -1,1 +1,0 @@
-## Yahtzee Rolling and Scoring
